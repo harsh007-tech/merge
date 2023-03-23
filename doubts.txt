@@ -1,0 +1,4 @@
+abstract method
+what is method body?
+Interfaces: Collections , set ,list whats the hierarchy
+Can we define a method outside main?

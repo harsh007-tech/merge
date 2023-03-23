@@ -6,3 +6,6 @@ def hello_world():
 @app.route('/Home')
 def hello_world():
     return 'Welcome to Home page!'
+@app.route('/Products')
+def hello_world():
+    return 'Welcome to Products page!'
